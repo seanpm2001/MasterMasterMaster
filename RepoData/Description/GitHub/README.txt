@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+In defense of the word "master" (yes, slavery is still FAR from OK, but the two terms are completely separate)
